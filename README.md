@@ -2,7 +2,7 @@
 # Shadow Userbot
 
 <p align="center">
-<img src="https://telegra.ph/file/551c8797863d28f05a908.jpg" alt="Shadow-Userbot">
+<img src="https://telegra.ph/file/23add1d3942895c9bde7f.jpg" alt="Shadow-Userbot">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
