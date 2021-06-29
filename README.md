@@ -32,7 +32,7 @@ I THANK INFOTEL FOR THIER FREE VIDEO SERVICE WATCH VIDEO ON HOW TO DEPLOY
 
 ## GET STRING SESSION FROM REPL RUN 
 
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://friday.starkgang.repl.run)
+[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@Noor12shah/Shadow-Userbot)
 
 
 ### The Normal Way
